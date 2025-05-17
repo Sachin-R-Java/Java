@@ -1,4 +1,4 @@
-package ex_1_Java_Basics;
+package ex_01_Java_Basics;
 
 public class Lab009_Multiple_Main_Method {
 

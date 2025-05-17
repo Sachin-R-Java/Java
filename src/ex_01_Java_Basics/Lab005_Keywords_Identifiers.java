@@ -1,4 +1,4 @@
-package ex_1_Java_Basics;
+package ex_01_Java_Basics;
 
 public class Lab005_Keywords_Identifiers {
 
@@ -6,5 +6,10 @@ public class Lab005_Keywords_Identifiers {
 		
 		// Keywords - package, public, class, static, void
 		// Identifiers - main
+		
+		int _2 = 123;
+        System.out.println(_2);
+        int _1 = 123;
+        int _0 = 123;
 	}
 }
